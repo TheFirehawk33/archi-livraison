@@ -1,8 +1,7 @@
-package com.api.controler;
+package com.hemit.controller;
 
-import com.api.controler.mock.OrderClientRepositoryMock;
+import com.hemit.controller.mock.OrderClientRepositoryMock;
 import com.hemit.controller.model.ShippingRequestDto;
-import com.hemit.model.Order;
 import com.hemit.repository.OrderClientRepository;
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Assertions;

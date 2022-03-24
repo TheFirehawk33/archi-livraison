@@ -1,4 +1,4 @@
-package com.api.controler;
+package com.hemit.controller;
 
 import com.hemit.controller.model.ShippingRequestDto;
 
