@@ -1,1 +1,1 @@
-web: java -jar target/archi-livraison-1.0-SNAPSHOT.jar
+web: java -jar target/quarkus-app/quarkus-run.jar
