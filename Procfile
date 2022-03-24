@@ -1,1 +1,1 @@
-web: java -jar target/archi-livraison-1.0.jar
+web: java -Dquarkus.http.port=$PORT $JAVA_OPTS -jar target/quarkus-app/quarkus-run.jar
