@@ -1,4 +1,4 @@
-package com.api.controler;
+package com.hemit.controller;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

@@ -22,4 +22,5 @@ public class OrderController {
         PanacheQuery<Order> result = orderRepository.findAll();
         return Response.status(Response.Status.ACCEPTED).entity(result.list()).build();
     }
+
 }
